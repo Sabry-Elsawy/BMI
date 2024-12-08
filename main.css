@@ -1,0 +1,98 @@
+/* body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+.container {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.container input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+.container button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.container button:hover {
+    background-color: #0056b3;
+}
+.result {
+    margin-top: 20px;
+} */
+
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+.container{
+    background-color:#2C2C2C ;
+    color: #D9D9D9 ;
+    
+}
+.container h2{
+    text-align: center;
+    font-weight: bold;
+    padding:30px 0px 15px 0;
+}
+.container p{
+    height: 60px;
+    padding-left: 20px;
+    font-style: italic;
+    color:#1DC255 ;
+}
+.container label{
+    font-family: Racing Sans One;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 40.32px;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+.container input{
+    background: #FFFFFF;
+    display: flex;
+    margin: auto;
+    height: 40px;
+}
+
+.container button{
+    color: #FFFFFF;
+    font-family: Racing Sans One;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 40.32px;
+    font-style: italic;
+    background-color: #1DC255;
+    display: flex;
+    margin: 35px auto;
+    padding: 0px 40px;
+    
+}
+.result{
+    text-align: center;
+    padding-bottom: 30px;
+}
